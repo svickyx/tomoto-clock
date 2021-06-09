@@ -1,0 +1,16 @@
+.homepage-container {
+  background-color: rgb(219, 82, 77);
+  color: white;
+}
+
+.timer-container {
+  max-width: 480px;
+  background-color: rgba(255, 255, 255, 0.1);
+  margin: 0 auto;
+  border-radius: 8px;
+}
+
+.description-container {
+  text-align: center;
+  padding: 20px 0;
+}

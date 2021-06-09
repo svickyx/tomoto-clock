@@ -1,0 +1,30 @@
+.new-task-tag {
+  background-color: white;
+  color: rgb(197, 195, 195);
+  padding: 0 10px;
+  display: flex;
+  align-items: center;
+  font-size: 17px;
+  border-radius: 8px;
+  margin-bottom: 5px;
+  border-left: 8px solid black;
+}
+
+.check-circle {
+  font-size: 25px;
+}
+
+.new-task-title {
+  width: 80%;
+  color: rgb(85, 85, 85);
+}
+
+.new-task-number {
+  width: 10%;
+}
+
+.trash-icon {
+  font-size: 18px;
+  color: rgb(107, 107, 107);
+  cursor: pointer;
+}

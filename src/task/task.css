@@ -1,0 +1,27 @@
+.task-container {
+  width: 480px;
+  margin: 0 auto;
+  padding-bottom: 30px;
+}
+
+.task-header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.6);
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.task-header {
+  display: inline-block;
+  width: 90%;
+}
+
+.task-icon {
+  font-size: 18px;
+  padding: 6px 13px;
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 4px;
+  cursor: pointer;
+}

@@ -1,0 +1,16 @@
+.add-task-panel {
+  border: 2px dashed rgba(255, 255, 255, 0.4);
+  background-color: rgba(0, 0, 0, 0.1);
+  text-align: center;
+  margin: 20px 0;
+  opacity: 0.7;
+  cursor: pointer;
+}
+.add-task-panel:hover {
+  opacity: 0.9;
+}
+
+h4 {
+  display: inline-block;
+  margin-left: 5px;
+}

@@ -1,0 +1,16 @@
+.start-button-container {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.start-button {
+  color: rgb(219, 82, 77);
+  width: 200px;
+  height: 55px;
+  border-style: none;
+  border-radius: 4px;
+  font-size: 1.5rem;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: rgb(216 216 216) 0px 6px 0px;
+}
