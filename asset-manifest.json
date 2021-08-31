@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tomoto-clock/static/css/main.8d19b80b.chunk.css",
+    "main.js": "/tomoto-clock/static/js/main.72f48a14.chunk.js",
+    "main.js.map": "/tomoto-clock/static/js/main.72f48a14.chunk.js.map",
+    "runtime-main.js": "/tomoto-clock/static/js/runtime-main.95cf4cbd.js",
+    "runtime-main.js.map": "/tomoto-clock/static/js/runtime-main.95cf4cbd.js.map",
+    "static/css/2.3c434353.chunk.css": "/tomoto-clock/static/css/2.3c434353.chunk.css",
+    "static/js/2.ecffc67c.chunk.js": "/tomoto-clock/static/js/2.ecffc67c.chunk.js",
+    "static/js/2.ecffc67c.chunk.js.map": "/tomoto-clock/static/js/2.ecffc67c.chunk.js.map",
+    "static/js/3.5cd79048.chunk.js": "/tomoto-clock/static/js/3.5cd79048.chunk.js",
+    "static/js/3.5cd79048.chunk.js.map": "/tomoto-clock/static/js/3.5cd79048.chunk.js.map",
+    "index.html": "/tomoto-clock/index.html",
+    "static/css/2.3c434353.chunk.css.map": "/tomoto-clock/static/css/2.3c434353.chunk.css.map",
+    "static/css/main.8d19b80b.chunk.css.map": "/tomoto-clock/static/css/main.8d19b80b.chunk.css.map",
+    "static/js/2.ecffc67c.chunk.js.LICENSE.txt": "/tomoto-clock/static/js/2.ecffc67c.chunk.js.LICENSE.txt",
+    "static/media/tomoto-icon.043c7a7e.svg": "/tomoto-clock/static/media/tomoto-icon.043c7a7e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95cf4cbd.js",
+    "static/css/2.3c434353.chunk.css",
+    "static/js/2.ecffc67c.chunk.js",
+    "static/css/main.8d19b80b.chunk.css",
+    "static/js/main.72f48a14.chunk.js"
+  ]
+}
